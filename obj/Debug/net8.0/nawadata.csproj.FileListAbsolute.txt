@@ -1,0 +1,14 @@
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/bin/Debug/net8.0/nawadata
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/bin/Debug/net8.0/nawadata.deps.json
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/bin/Debug/net8.0/nawadata.runtimeconfig.json
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/bin/Debug/net8.0/nawadata.dll
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/bin/Debug/net8.0/nawadata.pdb
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/obj/Debug/net8.0/nawadata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/obj/Debug/net8.0/nawadata.AssemblyInfoInputs.cache
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/obj/Debug/net8.0/nawadata.AssemblyInfo.cs
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/obj/Debug/net8.0/nawadata.csproj.CoreCompileInputs.cache
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/obj/Debug/net8.0/nawadata.dll
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/obj/Debug/net8.0/refint/nawadata.dll
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/obj/Debug/net8.0/nawadata.pdb
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/obj/Debug/net8.0/nawadata.genruntimeconfig.cache
+/Users/macbook/Ichlasul/Level Up /Enigma Camp/TEST /Net/nawadata/obj/Debug/net8.0/ref/nawadata.dll
